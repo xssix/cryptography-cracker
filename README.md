@@ -1,4 +1,5 @@
 # AES Cracker
+<img width="1429" height="686" alt="{64FC5AB7-D0DF-49AF-81D0-11B3C06AFCEA}" src="https://github.com/user-attachments/assets/44be7e21-6833-4d7b-b007-0d111cfe47f9" />
 
 A simple, fast, and multi-threaded decryption tool.
 
